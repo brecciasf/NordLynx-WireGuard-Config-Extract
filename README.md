@@ -36,4 +36,5 @@ If you are using PfSense and Wireguard you can also follow this guide to help yo
 ## Screenshot
 
 ![Screenshot](ScreenshotNordVPN.png)
+![Screenshot](ScreenshotNordVPN.png-existing_connection.png)
 
